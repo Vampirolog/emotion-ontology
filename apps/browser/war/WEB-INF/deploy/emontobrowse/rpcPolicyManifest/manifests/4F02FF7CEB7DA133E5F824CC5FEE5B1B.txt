@@ -1,0 +1,2 @@
+serviceClass: ch.bioontology.emonto.client.EmontoKBService
+path: 766336B8CB86750AEB2CEBB42696788C.gwt.rpc
